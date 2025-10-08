@@ -1,6 +1,6 @@
 """
 sample2.py
-Author: Jacob Catayoc
+Author: Feliciano Pineda
 Date: 9/11/2025
 """
 

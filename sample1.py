@@ -1,6 +1,6 @@
 """
 sample1.py
-Author: Jacob Catayoc
+Author: Feliciano Pineda
 Date:   September 11, 2025
 """
 name = input("What is your name? ")
